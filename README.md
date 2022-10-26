@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Pasadi Samarasinghe
 
-<!--
 **Pasadi-Samarasignhe/Pasadi-Samarasignhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 [![@pasadi's Holopin board](https://holopin.me/pasadi)](https://holopin.io/@pasadi)
 Here are some ideas to get you started:
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
